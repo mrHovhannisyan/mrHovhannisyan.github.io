@@ -16,7 +16,6 @@ var foodX = Math.ceil(Math.random()*30);
 var foodY = Math.ceil(Math.random()*30);
 var direction='right';
 
-
 //----------------------------------------------------------------
 
 // START OF GAME
